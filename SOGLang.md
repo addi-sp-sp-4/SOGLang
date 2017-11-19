@@ -34,7 +34,7 @@ For example, you can give up a condition like *"playerpos() == 'programmers_test
 String type. A string is declared like this:
 
 
-`'string'`
+`"string"`
 
 
 
@@ -114,7 +114,7 @@ SOGLang treats every value that is
 
 1. not `0`
 2. not `(0, 0, 0)`
-3. not `''` (empty string)
+3. not `""` (empty string)
 4. not `false`
 
 as true. 
